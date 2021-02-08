@@ -30,5 +30,5 @@ n/a
 
 Research is in Python on Jupyter Notebook.
 Data was collected in Python with BS4.
-Methods used: imputation by means, one-hot encoding, standard scaling, regression modeling, hyper-paramter tuning.
+Methods used: imputation by means, one-hot encoding, standard scaling, regression modeling, hyper-parameter tuning.
 Models used: XGBoost, Random Forest Regressor, KNN Regressor
